@@ -1,0 +1,60 @@
+82:Grupos:
+85:Turma: 6º A
+87: Nº      Tema do Projeto         Representante       Integrantes do Grupo
+107:Turma: 6º B
+109: Nº       Tema do Projeto                  Representante       Integrantes do Grupo
+127:Turma: 6º C
+129: Nº   Tema do Projeto    Representante   Integrantes do Grupo
+296:Turma: 7ºA – II Etapa
+299: Grupo       Tema do Projeto                   Integrantes do Grupo
+302: Grupo 1     Monitor de    Temperatura    e    Lara, Marina      P.,     Marina   D.,
+305: Grupo 2     Maquete Cidade      Inteligente   Letícia, Maria Luisa,        Vinícius,
+308: Grupo 3     Prototipagem Eletrônica com       Nina, Bento, Giovanna, Francisco
+311: Grupo 4     Prototipagem eletrônica com       Paulo, Melina, Clara R.
+314: Grupo 5     Projeto Livre de prototipagem     Clarice, Davi, Maria Flor, Beatriz C.
+317: Grupo 6     Tema     Livre(Tópico   Sobre     Rabello, Mariana, Beatriz Y., Carlos
+319:Turma: 7ºB – II Etapa (Mapeado a partir do Mapa de Sala)
+322: Grupo        Tema do Projeto                       Integrantes do Grupo
+325: Grupo 1      Monitor de qualidade do ar            Tomás, Lucas, Maria Sampaio,
+328: Grupo 2      Piano com Arduino                     Tomás Vale, Eduardo, Joaquim,
+331: Grupo 3      Garra Robótica                        Bernardo Leitão, Maria Luiza,
+334: Grupo 4      Projeto Livre de prototipagem         Jorge, Giovanna, Alice, Henrique
+337: Grupo 5      Robô Sumô com Arduino                 Laís, João Mateus, Bernardo M,
+340: Grupo 6      Tecnologias           Vestíveis       Pedro     Simões,       Matheus,
+345:Turma: 7ºC – II Etapa
+348: Grupo       Tema do Projeto                        Integrantes do Grupo
+351: Grupo 1     Arduino e suas aplicações na           Anita, Pedro, Fred e Alice
+354: Grupo 2     Microbit                               Laura, Fernando Guerra e F.
+357: Grupo 3     Internet das Coisas (IoT)              Júlia, Edu Becks, Vinicius e Bia
+359: Grupo 4     Espaços Makers e Fab Labs              Lara, Marina, Paulo e Heitor O.
+361: Grupo 5     Smart         Cities        (Cidades   Luiza, Elis, Samuel V., Heitor V.
+364: Grupo 6     Tema      Livre(Tópico        Sobre    Liz, Távora, Ana Alice, Cordeiro e
+371: Grupo       Integrante 1       Tema e Descrição da solução
+374: Grupo 1     Benício            adolescentes.
+381: Grupo 2     Caio
+390: Grupo 3
+396: Grupo 4     Antonio            mente.
+401:Grupo     Integrantes                Tema e Descrição da solução
+403:Grupo 1   Marina, Lucas e Luiz       - Solução: Uma alternativa ao Family Link com
+407:Grupo 2
+412:Grupo 3
+418:Grupo 4   Leonardo,      Pedro
+424:Grupo 5
+430:Grupo 6                              alunos do Colégio Apoio
+435: Grupo    Integrantes              Tema e Descrição da solução
+438:Grupo 1
+442:Grupo 2   Julia, Moema, Luana
+445:Grupo 3
+448:Grupo 4
+452:Grupo 5                            mental dos adolescentes.
+456:Grupo 6
+460:Grupo 7
+464:Trilha de aprofundamento - 1ª Série
+466:Projeto Comunidade GRIS
+469:real da Comunidade GRIS. Para isso, será necessário conhecer a atuação da
+473:Comunidade GRIS, seus objetivos, projetos e ações sociais. Em seguida, deverão
+481:1ª série A
+494:1ª série B
+552:Turma: 7º Ano C
+569:Turma: 7º Ano B
+584:Turma: 7º Ano C

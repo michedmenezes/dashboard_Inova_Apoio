@@ -1,0 +1,600 @@
+Feira de Tecnologia - 6º Ano
+(Ensino Fundamental 2: Feira de Tecnologia)
+
+Eixo 1: Fabricação Digital
+
+   1.​ Corte a Laser
+          a.​ Os alunos deverão pesquisar o que é o corte a laser, como essa
+              tecnologia funciona, quais materiais podem ser cortados ou
+              gravados, quais são suas principais aplicações e quais cuidados de
+              segurança devem ser tomados durante o uso. O grupo deverá
+              apresentar exemplos de produtos criados com corte a laser e
+              demonstrar a importância dessa tecnologia na indústria e na criação
+              de protótipos.              ​   ​
+   2.​ Impressão 3D
+          a.​ Os alunos deverão pesquisar como funciona uma impressora 3D,
+              quais materiais são utilizados na impressão, as etapas do processo
+              de fabricação e as principais áreas em que essa tecnologia é
+              aplicada. Também deverão apresentar exemplos de objetos
+              impressos em 3D e discutir as vantagens e limitações dessa
+              tecnologia. (criar brinde)
+   3.​ Modelagem 3D
+          a.​ Os alunos deverão pesquisar o que é modelagem 3D, quais
+              programas podem ser utilizados para criar modelos digitais e como
+              esses modelos são usados na impressão 3D, na arquitetura, nos
+              jogos e em outras áreas. O grupo deverá criar ou apresentar um
+              modelo digital como exemplo.
+
+Eixo 2: Construção e Criação
+
+   4.​ Marcenaria
+          a.​ Os alunos deverão pesquisar os conceitos básicos da marcenaria, as
+              principais ferramentas utilizadas, os tipos de madeira e os cuidados
+              de segurança necessários. Além disso, deverão apresentar exemplos
+              de projetos produzidos com técnicas de marcenaria e explicar seu
+              processo de construção. (Criar chaveiro para furar com furadeira)
+   5.​ Prototipagem Manual (papelão e materiais recicláveis)
+          a.​ Sugestão de tema: Robô Pintor
+          b.​ Os alunos deverão pesquisar o que é prototipagem manual, sua
+              importância no desenvolvimento de projetos e quais materiais
+              podem ser utilizados para criar protótipos. O grupo deverá construir
+              um modelo utilizando papelão e materiais recicláveis, demonstrando
+              uma ideia ou solução criativa. Sugestão: Desenvolvimento de um
+              Robô Pintor.
+Eixo 3: Jogos e Programação
+
+   6.​ Jogo Digital no Scratch com temática ODS
+          a.​ Os alunos deverão pesquisar os Objetivos de Desenvolvimento
+              Sustentável (ODS) e escolher um deles para desenvolver um jogo
+              digital utilizando o Scratch. O jogo deverá apresentar informações
+              sobre a ODS escolhida e propor desafios ou missões relacionadas ao
+              tema. (Criar qr code)
+   7.​ Jogo Físico de Tabuleiro com temática ODS
+          a.​ Os alunos deverão pesquisar uma ODS e desenvolver um jogo de
+              tabuleiro educativo relacionado ao tema. O jogo deverá conter
+              regras, desafios, perguntas ou missões que incentivem os jogadores
+              a aprender mais sobre a ODS escolhida. (criar jogo para cortar no
+              papel)
+
+Eixo 4: Tecnologia Interativa
+
+   8.​ Projeto com Makey Makey
+          a.​ Os alunos deverão pesquisar o que é o Makey Makey, como ele
+              funciona e quais materiais podem ser utilizados para criar projetos
+              interativos. O grupo deverá apresentar exemplos de aplicações e
+              desenvolver uma demonstração utilizando objetos condutores para
+              controlar jogos, sons ou outras interações.
+
+Projeto Livre
+
+   9.​ Desenvolvimento de um projeto autoral, utilizando conhecimentos e
+       ferramentas trabalhadas durante as aulas.
+           a.​ Os alunos poderão escolher um tema de interesse relacionado à
+               tecnologia, inovação e sustentabilidade. O grupo deverá realizar uma
+               pesquisa sobre o tema escolhido, identificar um problema ou
+               oportunidade e desenvolver uma solução criativa para apresentar na
+               Feira de Tecnologia.
+Eixo 5: Projetos Autorais Objetivos de Desenvolvimento Sustentável (ODS)
+
+     1.​ Turma 6º B: A turma manterá os projetos relacionados às ODS.
+            a.​ ( MODELO DE DOCUMENTAÇÃO DO PROJETO )
+
+Grupos:
+
+
+Turma: 6º A
+
+ Nº      Tema do Projeto         Representante       Integrantes do Grupo
+
+ 1       Projeto livre -         Letícia             Romeu, M. Luiza, Letícia, Tiago
+
+
+
+
+ 2       Modelagem 3D            Cecília             Davi, Manuela, Cecília, Eduardo
+
+ 3       Projeto livre - o       Arthur              Pedro, Hugo, Leonardo, Arthur
+         cérebro humano (IA)
+
+ 4       Impressão 3D            Francisco           Filipa,   Vinícius,   Clara, Francisco,
+                                                     Lucas
+
+ 5       Corte a Laser           Mateus c.           Antônia, Mateus, Enrico, Eduardo
+                                                     F., Marina
+
+
+
+Turma: 6º B
+
+ Nº       Tema do Projeto                  Representante       Integrantes do Grupo
+
+
+ 1        ODS 13 – Combate às              Maria     Luisa     Beatriz, Joaquim M., Lucas
+          mudanças climáticas e ao         Gomes               Castor, Maria luisa, Maria
+          aquecimento global                                   Cecília
+
+ 2        App para doações                 Bia Monteiro        Elise,  Bia          Monteiro,
+                                                               Joaquim P., Liz
+
+ 3        Limpar a água: robô para         Laís                Mariana,     Laís,      Maria
+          retirar lixo                                         Valentina, Felipe
+
+ 4        Site de Responsabilidade         Theo                Lara,Valentina,      Eduardo,
+          de Preservação                                       Theo
+
+ 5        Horta comunitária                Marina              Lucas, Marina,       Gabriela,
+                                                               Lorena
+Turma: 6º C
+
+ Nº   Tema do Projeto    Representante   Integrantes do Grupo
+
+ 1    Marcenaria         Sofia           Sofia, Gabriel, Antônio, Heloísa
+
+
+ 2    Prototipagem       Manu            Manu, Júlia, Caetano, Davi
+      Manual
+
+ 3    Jogo Digital ODS   João Pedro      João Pedro, Olga, Luiza T., Luiz
+
+
+ 4    Jogo Quiz          Luiza A         Luiza A, Lucca, João Gabriel,
+                                         Pedro B.
+
+ 5    Projeto    com     Francisco C.    Francisco C., Tiago, Francisco
+      Makey Makey                        M., Miguel, Lucas M.
+Feira de Tecnologia - 7º Ano
+
+Eixo 1: Tecnologias de Prototipagem Eletrônica
+
+   ●​ Arduino
+         ○​ Os alunos deverão pesquisar o que é o Arduino, como essa
+            plataforma funciona e quais são seus principais componentes.
+            Também deverão investigar como o Arduino é utilizado na criação
+            de protótipos, projetos de automação, robótica e dispositivos
+            inteligentes. O grupo deverá apresentar exemplos de projetos
+            desenvolvidos com Arduino, explicar o funcionamento dos sensores
+            e atuadores utilizados e demonstrar uma aplicação prática da
+            tecnologia.
+   ●​ Microbit
+         ○​ Os alunos deverão pesquisar o que é o Microbit, suas principais
+            características e funcionalidades. O grupo deverá explorar os
+            sensores e recursos integrados da placa, como a matriz de LEDs,
+            botões, acelerômetro, bússola e comunicação sem fio. Além disso,
+            deverão     apresentar   exemplos        de projetos   educacionais
+            desenvolvidos com o Micro e criar uma demonstração prática
+            mostrando como a programação pode ser utilizada para resolver
+            problemas ou criar soluções tecnológicas.
+   ●​ Internet das Coisas (IoT)
+         ○​ Os alunos deverão pesquisar o que é a Internet das Coisas (IoT),
+            como essa tecnologia funciona e de que forma ela permite a
+            comunicação entre objetos conectados à internet. O grupo deverá
+            investigar exemplos de dispositivos inteligentes presentes no dia a
+            dia, como lâmpadas, relógios, câmeras, assistentes virtuais e
+            eletrodomésticos conectados. Além disso, deverão apresentar os
+            benefícios, desafios e impactos da IoT na sociedade, mostrando
+            como essa tecnologia contribui para a automação, a praticidade e a
+            coleta de informações em tempo real.
+   ●​ Tecnologias Vestíveis (Wearables)
+         ○​ Os alunos deverão pesquisar o que são tecnologias vestíveis
+            (Wearables), como elas funcionam e de que forma estão presentes
+            no cotidiano das pessoas. O grupo deverá investigar dispositivos que
+            podem ser usados no corpo, como relógios inteligentes, pulseiras de
+            monitoramento, óculos inteligentes e roupas tecnológicas. Além
+            disso, deverão apresentar as aplicações dessas tecnologias nas áreas
+            da saúde, esportes, educação, segurança e entretenimento,
+            analisando seus benefícios e desafios. ​
+
+
+            Eixo 2: Espaços de Tecnologia e Inovação
+
+   ●​ Espaços Makers e Fab Labs
+         ○​ Os alunos deverão pesquisar o que são Espaços Makers e Fab Labs,
+            como surgiram e qual é a sua importância para a inovação, a
+            educação e o desenvolvimento de projetos tecnológicos. O grupo
+            deverá investigar quais ferramentas e equipamentos podem ser
+           encontrados nesses ambientes, como impressoras 3D, cortadoras a
+           laser, kits de robótica e equipamentos de prototipagem. Além disso,
+           deverão apresentar exemplos de projetos desenvolvidos nesses
+           espaços e explicar como a cultura maker incentiva a criatividade, a
+           colaboração, a resolução de problemas e a aprendizagem prática. O
+           trabalho poderá incluir uma proposta de como seria um Espaço
+           Maker ideal para a escola ou comunidade.
+   ●​ Smart Cities (Cidades Inteligentes)
+        ○​ Os alunos deverão pesquisar o conceito de Smart Cities,
+           investigando como a tecnologia e a conectividade podem ser
+           aplicadas para otimizar a gestão urbana e melhorar a qualidade de
+           vida dos cidadãos. O grupo deverá identificar problemas reais nas
+           cidades — como mobilidade, poluição, segurança ou eficiência
+           energética — e propor soluções baseadas em Internet das Coisas
+           (IoT), coleta de dados e automação para criar ambientes mais
+           eficientes e sustentáveis.
+
+Eixo 3: Prototipagem Eletrônica
+
+   ●​ Robô Seguidor de Linha com Arduino
+         ○​ Os alunos deverão pesquisar o que é um robô seguidor de linha,
+            como ele funciona e quais são os componentes necessários para sua
+            construção. O grupo deverá investigar o papel do Arduino na
+            programação e no controle do robô, bem como o funcionamento
+            dos sensores utilizados para detectar a linha e orientar o movimento.
+            Além disso, deverão apresentar exemplos de aplicações dessa
+            tecnologia na indústria, na logística e na robótica educacional. O
+            trabalho poderá incluir a construção de um protótipo ou uma
+            demonstração do funcionamento do robô.
+   ●​ Piano com Arduino
+         ○​ Os alunos deverão pesquisar como o Arduino pode ser utilizado para
+            criar instrumentos musicais eletrônicos, explorando conceitos de
+            programação, eletrônica e produção de sons. O grupo deverá
+            investigar os componentes necessários para a construção de um
+            piano com Arduino, como botões, buzzer, resistores e fios de
+            conexão, além de compreender como o código controla a
+            reprodução das notas musicais. O trabalho poderá incluir a
+            construção de um protótipo funcional e uma demonstração prática
+            do instrumento.
+   ●​ Garra Robótica
+         ○​ Os alunos deverão pesquisar o que é uma garra robótica, como ela
+            funciona e onde esse tipo de tecnologia é utilizado. O grupo deverá
+            investigar os princípios da robótica e da automação envolvidos no
+            movimento da garra, bem como os componentes necessários para
+            sua construção, como motores, servo motor, sensores e sistemas de
+            controle. Além disso, deverão apresentar exemplos de aplicações das
+            garras robóticas na indústria, na medicina, na exploração espacial e
+            em outras áreas que utilizam robôs para realizar tarefas com
+         precisão e segurança. ​
+
+●​ Monitor de qualidade do ar -
+      ○​ Os alunos deverão desenvolver um sistema capaz de monitorar e
+         analisar a qualidade do ar em diferentes ambientes. Para isso, será
+         necessário pesquisar os principais fatores que influenciam a
+         qualidade do ar, os impactos da poluição na saúde humana e no
+         meio ambiente, além das tecnologias utilizadas para realizar esse
+         monitoramento.
+●​ Projeto Livre Com Arduino -
+      ○​ Os alunos deverão desenvolver um projeto autoral, utilizando
+         conhecimentos e ferramentas trabalhadas durante as aulas. O grupo
+         poderá escolher um tema de interesse relacionado à tecnologia,
+         inovação e sustentabilidade. O grupo deverá realizar uma pesquisa
+         sobre o tema escolhido, identificar um problema ou oportunidade e
+         desenvolver uma solução criativa para apresentar na Feira de
+         Tecnologia.
+●​ Tema Livre(Tópico Sobre Tecnologia e Sociedade)
+      ○​ O foco está na investigação de um problema e no impacto da
+         inovação, o grupo precisa realizar uma pesquisa, identificar
+         problema real da sociedade e apresentar uma tecnologia que tenha
+         potencial de resolver aquele problema específico.
+●​ Robô Sumô com Arduino
+      ○​ Os alunos deverão pesquisar o que é um robô sumô, como ele
+         funciona e quais são os componentes necessários para sua
+         construção. O grupo deverá investigar o papel do Arduino na
+         programação e no controle do robô, bem como o funcionamento
+         dos sensores utilizados para detectar o oponente e os limites da
+         arena. O trabalho poderá incluir a construção de um protótipo ou
+         uma demonstração do funcionamento do robô.
+●​ Maquete Cidade Inteligente com Arduino
+      ○​ Os alunos deverão pesquisar os conceitos de cidades inteligentes
+         (Smart Cities), investigando como a tecnologia e a conectividade
+         podem otimizar a gestão urbana. O grupo deverá planejar e
+         construir uma maquete que demonstre a integração de sistemas
+         automatizados, utilizando o Arduino para gerenciar sensores e
+         atuadores que resolvam problemas de mobilidade, sustentabilidade
+         ou eficiência nos serviços públicos.
+●​ Prototipagem Eletrônica com Lego
+      ○​ Os alunos deverão pesquisar como a união de blocos de montagem
+         com sistemas eletrônicos e sensores amplia as possibilidades de
+         criação tecnológica. O grupo deverá desenvolver um protótipo
+         funcional, demonstrando como a lógica de programação e a
+         engenharia mecânica podem ser aplicadas na resolução de
+         problemas ou na criação de soluções interativas
+●​ Prototipagem eletrônica com Arduino e Sucata
+      ○​ Os alunos deverão pesquisar a importância da prototipagem manual
+         e da cultura maker no desenvolvimento de projetos. O grupo deverá
+         construir um modelo funcional utilizando Arduino integrado a
+            materiais recicláveis e sucatas, demonstrando uma ideia ou solução
+            criativa que utilize recursos acessíveis para viabilizar projetos
+            tecnológicos.
+
+Turma: 7ºA – II Etapa
+
+
+ Grupo       Tema do Projeto                   Integrantes do Grupo
+
+
+ Grupo 1     Monitor de    Temperatura    e    Lara, Marina      P.,     Marina   D.,
+             Umidade.                          Francisco F.
+
+ Grupo 2     Maquete Cidade      Inteligente   Letícia, Maria Luisa,        Vinícius,
+             com Arduino                       Rafaella e Daniel.
+
+ Grupo 3     Prototipagem Eletrônica com       Nina, Bento, Giovanna, Francisco
+             Lego                              B, Bianca
+
+ Grupo 4     Prototipagem eletrônica com       Paulo, Melina, Clara R.
+             Arduino e Sucata
+
+ Grupo 5     Projeto Livre de prototipagem     Clarice, Davi, Maria Flor, Beatriz C.
+             com arduino
+
+ Grupo 6     Tema     Livre(Tópico   Sobre     Rabello, Mariana, Beatriz Y., Carlos
+             Tecnologia e Sociedade)
+Turma: 7ºB – II Etapa (Mapeado a partir do Mapa de Sala)
+
+
+ Grupo        Tema do Projeto                       Integrantes do Grupo
+
+
+ Grupo 1      Monitor de qualidade do ar            Tomás, Lucas, Maria Sampaio,
+                                                    Beatriz e Gabriel.
+
+ Grupo 2      Piano com Arduino                     Tomás Vale, Eduardo, Joaquim,
+                                                    Bianca e Maria Sales.
+
+ Grupo 3      Garra Robótica                        Bernardo Leitão, Maria Luiza,
+                                                    Bernardo V e Bruno.
+
+ Grupo 4      Projeto Livre de prototipagem         Jorge, Giovanna, Alice, Henrique
+              com arduino                           e Malu
+
+ Grupo 5      Robô Sumô com Arduino                 Laís, João Mateus, Bernardo M,
+                                                    Pedro Xavier e Sara
+
+ Grupo 6      Tecnologias           Vestíveis       Pedro     Simões,       Matheus,
+              (Wearables) com Arduino               Fernando, Luiza e Cecília
+
+
+
+Turma: 7ºC – II Etapa
+
+
+ Grupo       Tema do Projeto                        Integrantes do Grupo
+
+
+ Grupo 1     Arduino e suas aplicações na           Anita, Pedro, Fred e Alice
+             prototipagem
+
+ Grupo 2     Microbit                               Laura, Fernando Guerra e F.
+                                                    Salazar, Chloê e Bernardo
+
+ Grupo 3     Internet das Coisas (IoT)              Júlia, Edu Becks, Vinicius e Bia
+
+ Grupo 4     Espaços Makers e Fab Labs              Lara, Marina, Paulo e Heitor O.
+
+ Grupo 5     Smart         Cities        (Cidades   Luiza, Elis, Samuel V., Heitor V.
+             Inteligentes)
+
+ Grupo 6     Tema      Livre(Tópico        Sobre    Liz, Távora, Ana Alice, Cordeiro e
+             Tecnologia e Sociedade)                João
+Feira de Tecnologia - CICLO 5
+Projeto Autoral
+
+8 ano A
+
+ Grupo       Integrante 1       Tema e Descrição da solução
+             Laís​
+             Maria Eduarda      Tema: O impacto das telas em crianças e
+ Grupo 1     Benício            adolescentes.
+             Lucas              Solução: Aplicativo para
+             Maria Clara
+                                Tema: O impacto dos esportes na saúde física
+             Thais​
+                                dos estudantes.
+             Luiza
+ Grupo 2     Caio
+                                Solução: Acompanhamento de atividades físicas
+             Pedro S.
+                                e metas focado em desenvolvimento físico e da
+             Maria Fernanda
+                                rotina diária.
+             Isabela​
+             Manuela
+             José               Tema: Saúde Financeira de Jovens
+ Grupo 3
+             Gustavo            Solução: Aplicativo de educação financeira.
+             Marina
+             Heitor
+             Igor​
+             Ian                Tema: O impacto dos videos curtos para a
+ Grupo 4     Antonio            mente.
+             Theo               Solução:
+             Pedro V.
+8 ano B
+
+Grupo     Integrantes                Tema e Descrição da solução
+          Cecília, Maitê Burity      - Tema: Saúde Mental e uso das Redes Sociais
+Grupo 1   Marina, Lucas e Luiz       - Solução: Uma alternativa ao Family Link com
+          Eduardo                    foco no uso saudável das telas.
+                                     - Tema: Como Melhorar a rotina de sono dos
+          Joaquim, Davi G.,          estudantes do colégio.
+Grupo 2
+          Anita e Beatriz            - Solução: Aplicativo para monitorar a média de
+                                     sono e regular o uso de aplicativos.
+                                     - Tema: A Falta se segurança e a alta exposição
+          Amanda,         Tarsila,   nas redes sociais impacta jovens e adolescentes
+Grupo 3
+          Edgar e Davi A.            -   Solução:    Ferramenta     de    suporte     e
+                                     conscientização sobre o uso de telas por jovens.
+                                     - Tema: A segurança das mulheres no Brasil e
+          Júlia,  Ana    Luiza,
+                                     como isso pode afetá-las diariamente.
+Grupo 4   Leonardo,      Pedro
+                                     - Solução: Jogo sobre mulheres, conquistas e
+          Lapenda e Igor
+                                     suas histórias.
+                                     - Tema: Poluição no Rio Capibaribe
+          Antonio, Pedro Lewis,      - Solução: Barcos para auxiliar a limpeza do rio
+Grupo 5
+          Eduardo M., Bernardo       capibaribe e limpeza superficial do rio e do fundo
+                                     rio.
+                                     - Tema: Como a tecnologia pode melhorar e
+                                     facilitar o acesso a informações e estudos dos
+          Eduardo T., Viggo,
+Grupo 6                              alunos do Colégio Apoio
+          Leon, Marconi e Maitê
+                                     - Solução: Reformular o Ava para Melhor
+                                     visualização das notas e atividades
+8 ano C
+ Grupo    Integrantes              Tema e Descrição da solução
+                                   - Tema: Como as redes sociais afetam a saúde
+          Celina, Daniel, Sofia,   mental dos adolescentes de 12 a 16 anos.
+Grupo 1
+          Pedro C.                 - Solução: Um jogo para conscientizar o uso das
+                                   redes sociais.
+                                   Tema: Dificuldade dos Idosos no uso da tecnologia.
+Grupo 2   Julia, Moema, Luana
+                                   Solução:
+          Luisa,   Pedro    H.,    Tema: O uso Excessivo de telas entre os jovens
+Grupo 3
+          Maria Clara, Enzo        Solução:
+          Antônia,      Tobias,    Tema: Como a Tecnologia Influencia no Machismo.
+Grupo 4
+          Beatriz, Otto            Solução: Um jogo digital.
+                                   Tema:O impacto das Redes sociais na saúde
+          Rebeca, Lucas      S.,
+Grupo 5                            mental dos adolescentes.
+          Lara, Bento
+                                   Solução:
+          Leticia Souza, Enzo      Tema:
+Grupo 6
+          Oliveira, Maira          Solução:
+                                   Tema: Como Podemos adaptar uma cadeira de
+          Luísa Augusta, Clara     rodas normal para uma elétrica
+Grupo 7
+          Henrique, Tomé           Solução: Cadeira de Rodas Adaptada de baixo
+                                   custo
+Feira de Tecnologia - Ensino Médio
+Trilha de aprofundamento - 1ª Série
+
+Projeto Comunidade GRIS
+
+Os alunos deverão desenvolver um projeto voltado para atender uma necessidade
+real da Comunidade GRIS. Para isso, será necessário conhecer a atuação da
+organização, compreender os desafios enfrentados pela comunidade e identificar
+oportunidades em que a tecnologia, a criatividade e a inovação possam contribuir
+para gerar impacto positivo. Inicialmente, os grupos deverão pesquisar sobre a
+Comunidade GRIS, seus objetivos, projetos e ações sociais. Em seguida, deverão
+analisar problemas ou necessidades que possam ser solucionados ou
+minimizados por meio de um projeto desenvolvido pelos estudantes. Com base
+nessa pesquisa, cada grupo deverá propor, planejar e desenvolver uma solução. O
+projeto poderá envolver a criação de protótipos, dispositivos tecnológicos, jogos
+educativos, materiais interativos, campanhas de conscientização, recursos digitais
+ou outras iniciativas que contribuam para a comunidade.
+​
+1ª série A
+    ●​     Ecobóia-Luísa Rocha, Malu Ribeiro, Vinícius Guerra, Caio Aragão e Artu…
+           ○​ Ecoboia: Equipamento para salvamento de pertences e objetos.
+    ●​     Ana Luiza Dutra, Bruna Laureano, Letícia Xavier, Nuno Benício e Pedro …
+           ○​ Materiais didáticos feitos com fabricação digital para auxílio no
+                aprendizado das crianças do GRIS.
+    ●​     Trilha de pesquisa - Carol, Tiago, Marina, José e José 1ºA
+           ○​ Aplicativo para gestão de doações do GRIS.
+    ●​     Ana Marcela, Maísa, Raquel, Rodrigo e Theo
+           ○​ Plataforma de alerta do nível do rio.
+    ●​     Luís, Mariana, Luiza, Gabriel e Rafael
+           ○​ Maquete de um de macrodrenagem para a comunidade.
+
+1ª série B
+    ●​     Trilha de pesquisa - Piso Poroso
+           ○​ Piso poroso para diminuir o impacto das enchentes nas casas e nas
+                ruas.
+    ●​     Educação socioambiental na Vázea: Maria Clara, Nícolas, Guilherme e J…
+           ○​ Jogo de tabuleiro e livro voltado ao público infantil com uma
+                temática socioambiental e elementos produzidos com fabricação
+                digital.
+    ●​     Thiago M., Vinicius W., Vinícius R., Heitor H., Guilherme P. e Davi P.
+           ○​ Armadilha de baixo custo para combater o mosquito Aedes aegypti,
+                construída com materiais recicláveis e acessíveis.
+    ●​     Raul Mergulhão, Henrique Walter, Luca Agrelli e Vinicius Marinho
+           ○​ A solução consiste em um jogo físico interativo inspirado em
+                “Scotland Yard” que utiliza a resolução de casos para desenvolver a
+                alfabetização, o letramento e o pensamento crítico.
+Eletiva de programação
+
+Estação Meteorológica
+
+Os alunos deverão desenvolver uma Estação Meteorológica capaz de monitorar e
+apresentar informações sobre as condições climáticas do ambiente. O projeto
+deverá combinar elementos físicos e tecnológicos, permitindo a observação e a
+medição de diferentes fenômenos meteorológicos.
+
+Inicialmente, o grupo deverá pesquisar o que é uma estação meteorológica, qual
+sua importância para a sociedade e quais instrumentos são utilizados para coletar
+dados climáticos.
+
+Após a pesquisa, o grupo deverá planejar e construir uma estação meteorológica
+física, utilizando materiais como papelão, MDF, madeira, impressão 3D, materiais
+recicláveis ou outros recursos disponíveis. Os estudantes poderão incluir
+componentes eletrônicos, sensores e sistemas digitais para tornar o projeto mais
+interativo, mas a construção física dos instrumentos e da estrutura da estação
+também será parte fundamental do trabalho.
+
+Além da construção da estação, os alunos deverão criar uma página no GitHub
+para documentar todas as etapas do projeto. Nessa página deverão ser
+registrados os objetivos, pesquisas realizadas, materiais utilizados, fotos do
+processo de construção, desafios encontrados, resultados obtidos e informações
+sobre o funcionamento da estação meteorológica. O espaço servirá como um
+portfólio digital do projeto, permitindo compartilhar o trabalho desenvolvido com
+outras pessoas.
+
+Além da construção, os alunos deverão explicar o funcionamento de cada
+instrumento, demonstrando como os dados climáticos são coletados e como
+essas informações auxiliam na previsão do tempo.
+
+(Programação de Artefatos Físicos e Digitais )
+Palco Taça TE
+
+Tema: Resgate e Salvamento
+
+Os estudantes desenvolveram projetos de inovação tecnológica voltados à
+resolução de problemas reais enfrentados pela sociedade, com foco na
+prevenção, resgate e salvamento. Cada equipe realizou pesquisas,
+identificou um desafio regional e propôs uma solução tecnológica viável,
+integrando conceitos de robótica, engenharia, programação e cidadania.
+
+Turma: 7º Ano C
+
+Problema identificado: Deslizamentos de terra e enchentes na Região
+Metropolitana do Recife.
+
+Solução tecnológica proposta: Manta Inteligente de Contenção e
+Drenagem
+
+O projeto consiste no desenvolvimento de uma manta tecnológica
+destinada à estabilização de encostas e ao gerenciamento do escoamento
+da água da chuva. O sistema incorpora sensores capazes de monitorar
+variáveis como umidade do solo e volume de precipitação, permitindo
+identificar situações de risco. Além disso, a estrutura possui mecanismos
+de drenagem que direcionam a água de forma mais eficiente, reduzindo a
+possibilidade de alagamentos e deslizamentos e contribuindo para a
+proteção das comunidades vulneráveis.
+
+Turma: 7º Ano B
+
+Problema    identificado: Incêndios provocados por          falhas em
+equipamentos eletrônicos e acidentes domésticos             na Região
+Metropolitana do Recife.
+
+Solução tecnológica proposta: Robô Bombeiro de Primeira Resposta
+
+A equipe desenvolveu um robô destinado ao atendimento inicial de
+princípios de incêndio em ambientes residenciais. Equipado para
+identificar focos de calor e atuar rapidamente na contenção das chamas, o
+robô busca reduzir a propagação do incêndio enquanto equipes
+especializadas são acionadas. O projeto também contempla funções de
+apoio ao resgate, contribuindo para aumentar a segurança das vítimas e
+minimizar danos materiais.
+Turma: 7º Ano C
+
+Problema identificado:     Ataques   de   tubarão na costa da Região
+Metropolitana do Recife.
+
+Solução tecnológica proposta: Sistema Inteligente de Monitoramento de
+Tubarões
+
+O projeto propõe uma solução integrada para prevenção de acidentes
+envolvendo tubarões. A iniciativa combina a identificação eletrônica dos
+animais por meio de dispositivos de rastreamento, drones responsáveis
+pelo monitoramento da faixa litorânea e um aplicativo que disponibiliza
+informações em tempo real sobre áreas de risco. O objetivo é ampliar a
+segurança de banhistas, surfistas e demais usuários das praias, além de
+favorecer a preservação da fauna marinha por meio do monitoramento
+não invasivo.
+
