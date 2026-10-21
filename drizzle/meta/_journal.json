@@ -15,6 +15,13 @@
       "when": 1787775682079,
       "tag": "0001_known_thor_girl",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1792607422271,
+      "tag": "0002_gigantic_selene",
+      "breakpoints": true
     }
   ]
 }

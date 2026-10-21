@@ -68,9 +68,24 @@
 }
 
 @layer base {
-  * { @apply border-border outline-ring/50; }
-  html { font-family: Arial, Helvetica, sans-serif; }
-  body { @apply bg-background text-foreground; }
-  button:not(:disabled), [role="button"]:not([aria-disabled="true"]), select:not(:disabled), input:not(:disabled), textarea:not(:disabled) { @apply cursor-pointer; }
-  ::selection { background: #e52521; color: white; }
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  button:not(:disabled),
+  [role="button"]:not([aria-disabled="true"]),
+  select:not(:disabled),
+  input:not(:disabled),
+  textarea:not(:disabled) {
+    @apply cursor-pointer;
+  }
+  ::selection {
+    background: #0b5b4b;
+    color: white;
+  }
 }
