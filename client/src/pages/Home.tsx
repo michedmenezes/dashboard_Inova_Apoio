@@ -9,12 +9,12 @@ import { toast } from "sonner";
 import {
   BarChart3,
   Check,
-  ClipboardCheck,
-  FolderKanban,
-  Layers3,
+  ClipboardPenLine,
+  FolderOpen,
+  ListChecks,
   Pencil,
   Plus,
-  UsersRound,
+  Users,
 } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 
@@ -86,10 +86,10 @@ type PlatformData = {
 
 const navItems: AdminNavigationItem[] = [
   { key: "overview", label: "Visão geral", icon: BarChart3 },
-  { key: "evaluate", label: "Avaliar grupos", icon: ClipboardCheck },
-  { key: "projects", label: "Projetos", icon: FolderKanban },
-  { key: "stages", label: "Etapas", icon: Layers3 },
-  { key: "groups", label: "Grupos", icon: UsersRound },
+  { key: "projects", label: "Projetos", icon: FolderOpen },
+  { key: "evaluate", label: "Avaliar grupos", icon: ClipboardPenLine },
+  { key: "groups", label: "Grupos", icon: Users },
+  { key: "stages", label: "Etapas", icon: ListChecks },
 ];
 
 const criteria: Array<{ key: ScoreKey; code: string; label: string }> = [
